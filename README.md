@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQE8PXH3D6NKQQ/profile-displaybackgroundimage-shrink_350_1400/0/1690297253955?e=1696464000&v=beta&t=oWMOFHV_HU_jrbPficqeMGSOD4AQHQk-z2uHNHkpD-o)
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQE8PXH3D6NKQQ/profile-displaybackgroundimage-shrink_350_1400/0/1690297255935?e=1712188800&v=beta&t=MWvsWj4RqZUfyJWQvCr088XsvIqj-u3l2tcVRHLT1HM)
 <h1 align="center">Hi 👋, I'm Ansh Gulati</h1>
 <h3 align="center">Game Developer and Graphic Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
