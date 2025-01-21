@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGsSC8IJuHpnQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724672058108?e=1732147200&v=beta&t=wh0gboG4vHX3384u7g9uRcWidh1PGV6forIOtPXuxJI)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGsSC8IJuHpnQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724672058108?e=1743033600&v=beta&t=NODukuVajXbQ4RQNZ6beOiM03bk146qf9cfwhKduu5Q)
 <h1 align="center">Greetings, I'm Ansh Gulati 👋</h1>
 <h3 align="center">Pursuing B.Tech CSE (with specialization in Graphics & Gaming)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
